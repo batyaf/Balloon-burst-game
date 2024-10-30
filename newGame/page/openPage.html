@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Element Game</title>
+    <script src="../script/js2.js"></script>
+    <link href="../style/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body onload="putDetails()">
+    <div class="container">
+        <div id="page1">
+            <h1>ברוכים הבאים למשחק</h1>
+            <label for="playerName">הכנס שם שחקן:</label>
+            <select id="Nameselscts" onclick="hideTbox()">
+                <option>בחר שם</option>
+            </select>
+            <h6 id="checkName" style="display:none">לא נבחר/הוכנס שם</h6>
+            <button onclick="showTbox()" class="button">שחקן חדש</button>
+            <input type="text" id="playerName" style="display:none">
+            <label for="elementCount">מספר האלמנטים במשחק(20-100):</label>
+            <input type="number" id="elementCount" min="20" max="100" value="20">
+            <label for="gameLevel">:בחר רמה</label>
+            <select id="gameLevel">
+                <option value="1">רמה 1</option>
+                <option value="2">רמה 2</option>
+                <option value="3">רמה 3</option>
+            </select>
+            <input type="radio" name="radi" checked="checked" onchange="closeOption()" />משחק אקראי <br>
+            <input type="radio" name="radi" onchange="openOptions()" />בחר משחק:
+            <select id="gameSelect" style="display:none" onchange="choose()">
+                <option value="2" >הכן גלידה</option>
+                <option value="1" >קשט את הגלידה</option>
+                <option value="0">תפוס את הדג</option>
+                <option value="3" >צבע את הקיר</option>
+                <option value="4" >גרש את הציפור</option>
+            </select>
+            <button id="startButton" onclick="startGame(document)" class="button">התחל משחק</button>
+        </div>
+
+
+
+    </div>
+</body>
+</html>

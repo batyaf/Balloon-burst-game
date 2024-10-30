@@ -1,0 +1,26 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Game</title>
+    <script src="../script/js2.js"></script>
+    <link href="../style/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body onload="startNewGame(document)">
+
+    <div class="container">
+        <div id="page2" class="game-page">
+            <div class="player-info">
+                <h2 id="playerNameDisplay" style="direction:rtl"></h2>
+                <div id="score" style="direction:rtl"></div>
+            </div>
+            <div id="game-area"></div>
+            <a href="#" id="newGameButton" class="button" onclick="startNewGame(document)">משחק חדש</a>
+            <a href="openPage.html" id="changeDetailsButton" class="button" onclick="populateTextBoxValues()">שנה משחק</a>
+            <a href="championsPage.html" id="championsButton" class="button">האלופים</a>
+        </div>
+    </div>
+</body>
+
+</html>

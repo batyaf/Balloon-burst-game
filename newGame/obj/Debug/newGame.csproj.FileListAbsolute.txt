@@ -1,0 +1,118 @@
+C:\newGame\bin\newGame.dll.config
+C:\newGame\bin\newGame.dll
+C:\newGame\bin\newGame.pdb
+C:\newGame\bin\roslyn\csc.exe
+C:\newGame\bin\roslyn\csc.exe.config
+C:\newGame\bin\roslyn\csc.rsp
+C:\newGame\bin\roslyn\csi.exe
+C:\newGame\bin\roslyn\csi.exe.config
+C:\newGame\bin\roslyn\csi.rsp
+C:\newGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\newGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\newGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\newGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\newGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\newGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\newGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\newGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\newGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\newGame\bin\roslyn\Microsoft.Managed.Core.targets
+C:\newGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\newGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\newGame\bin\roslyn\System.AppContext.dll
+C:\newGame\bin\roslyn\System.Collections.Immutable.dll
+C:\newGame\bin\roslyn\System.Console.dll
+C:\newGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\newGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\newGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\newGame\bin\roslyn\System.Globalization.Calendars.dll
+C:\newGame\bin\roslyn\System.IO.Compression.dll
+C:\newGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\newGame\bin\roslyn\System.IO.FileSystem.dll
+C:\newGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\newGame\bin\roslyn\System.Net.Http.dll
+C:\newGame\bin\roslyn\System.Net.Sockets.dll
+C:\newGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\newGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\newGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\newGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\newGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\newGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\newGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\newGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\newGame\bin\roslyn\System.ValueTuple.dll
+C:\newGame\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\newGame\bin\roslyn\System.Xml.XmlDocument.dll
+C:\newGame\bin\roslyn\System.Xml.XPath.dll
+C:\newGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\newGame\bin\roslyn\vbc.exe
+C:\newGame\bin\roslyn\vbc.exe.config
+C:\newGame\bin\roslyn\vbc.rsp
+C:\newGame\bin\roslyn\VBCSCompiler.exe
+C:\newGame\bin\roslyn\VBCSCompiler.exe.config
+C:\newGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\newGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\newGame\obj\Debug\newGame.csproj.AssemblyReference.cache
+C:\newGame\obj\Debug\newGame.csproj.CoreCompileInputs.cache
+C:\newGame\obj\Debug\newGame.csproj.CopyComplete
+C:\newGame\obj\Debug\newGame.dll
+C:\newGame\obj\Debug\newGame.pdb
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\newGame.dll.config
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\newGame.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\newGame.pdb
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\csc.exe
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\csc.exe.config
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\csc.rsp
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\csi.exe
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\csi.exe.config
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\csi.rsp
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.AppContext.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Console.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.IO.Compression.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Net.Http.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Net.Sockets.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.ValueTuple.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Xml.XPath.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\vbc.exe
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\vbc.exe.config
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\vbc.rsp
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\obj\Debug\newGame.csproj.AssemblyReference.cache
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\obj\Debug\newGame.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\obj\Debug\newGame.csproj.CopyComplete
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\obj\Debug\newGame.dll
+C:\Users\יאיר\Downloads\חני חלילי ובתיה פרקש (1)\חני חלילי ובתיה פרקש\newGame\obj\Debug\newGame.pdb
